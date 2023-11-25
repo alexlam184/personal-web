@@ -1,0 +1,9 @@
+{
+  "IndexPage": {
+    "owner": "Alex Lam"
+  },
+  "NotFoundPage": {
+    "title": "Page not found",
+    "description": "404. The requested URL was not found on this server"
+  }
+}
