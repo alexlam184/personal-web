@@ -1,4 +1,4 @@
-[![MIT License](https://img.shields.io/github/license/alexlam184/personal-website)](https://github.com/alexlam184/personal-website/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/github/license/alexlam184/personal-website)](https://github.com/alexlam184/personal-web/blob/master/LICENSE)
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -15,11 +15,11 @@ My persoanl website is designed for showing personal background and sharing my p
 
 ## Installation
 
-Install personal-website with `yarn`
+Install personal-web with `yarn`
 
 ```bash
   yarn install
-  cd personal-website
+  cd personal-web
 ```
 
 ### Linting
@@ -56,8 +56,7 @@ Open http://localhost:3000 with your browser to see the result.
 
 ## Acknowledgements
 
-- [next-i18next](https://github.com/isaachinman/next-i18next)
-- [react-i18next](https://react.i18next.com/)
+- [next-intl](https://next-intl-docs.vercel.app)
 - [Code formatting](https://gist.github.com/silver-xu/1dcceaa14c4f0253d9637d4811948437)
 - [husky](https://typicode.github.io/husky/#/)
 - [react icon](https://react-icons.github.io/react-icons/)
@@ -110,6 +109,6 @@ only use `lg:` is ok,the rest will be marked as small screen
 
 # License & Copyright
 
-[MIT](https://github.com/alexlam184/personal-website/blob/master/LICENSE)
+[MIT](https://github.com/alexlam184/personal-web/blob/master/LICENSE)
 
 _2023-11-25_
